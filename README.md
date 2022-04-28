@@ -1,10 +1,10 @@
-#### Story Map
+## Story Map
 
 The story map created for this lab details the threats faced by the California spotted owl. 
 ![owl](img/spottedowl1.jpg)
 
 In order to create this story map, the necessary libraries must first be imported
-# Required Libraries
+### Required Libraries
 
 - jQuery: is a JavaScript library that greatly simplifies JavaScript programming.
 
