@@ -1,6 +1,6 @@
 ## Story Map
 
-The story map created for this lab details the threats faced by the California spotted owl. 
+The story map created for this lab details the threats faced by the [California spotted owl](https://www.biologicaldiversity.org/species/birds/California_spotted_owl/index.html). 
 ![owl](img/spottedowl1.jpg)
 
 The spotted owl (Strix occidentalis) is a species of true owl found throughout British Columbia and the Western United States. They are currently listed as a Sensitive Species by the U.S. Forest Service due to threats they have faced from the lumber industry and other owl species. 
