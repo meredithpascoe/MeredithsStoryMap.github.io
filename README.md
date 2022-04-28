@@ -1,4 +1,4 @@
-## Story Map
+#### Story Map
 
 The story map created for this lab details the threats faced by the California spotted owl. 
 ![owl](img/spottedowl1.jpg)
