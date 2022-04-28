@@ -42,3 +42,5 @@ Next, in the head element, create a title and include all the required styleshee
   <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.js"></script>
 </head>
 ```
+
+Then, in the body section, set a background image for the cover page and write a short introduction. As mentioned, this story map details threats to the California Spotted Owl, so the introduction provides a quick synopsis on the species and the threats it faces. 
